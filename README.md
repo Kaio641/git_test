@@ -1,1 +1,1 @@
-This is (Kaio641)'s first git project!
+This is Kaio641's first git project!
